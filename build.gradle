@@ -1,0 +1,14 @@
+plugins {
+  id 'java'
+  id 'application'
+}
+
+mainClassName = 'StarOneOfxErrorDemo'
+
+repositories {
+  jcenter()
+}
+
+dependencies {
+  compile group: 'com.webcohesion.ofx4j', name: 'ofx4j', version: '1.10'
+}

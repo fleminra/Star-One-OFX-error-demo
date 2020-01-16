@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<institutions>
+
+  <institution>
+    <financialInstitutionId>94089</financialInstitutionId>
+    <id>321177968</id>
+    <name>Star One Credit Union</name>
+    <OFXURL>https://fs-services.1fsapi.com/eftxweb/tyfone.ofx<!--https://ofxdc.prd1.ncr.com/cmr/cmr.ofx--></OFXURL>
+    <organization>starone.org</organization>
+  </institution>
+
+</institutions>
